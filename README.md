@@ -24,7 +24,7 @@ Olá, Eu sou a Pamela Amanda.
 <div> 
  target="_blank"></a>
  	<a href = "mailto:paamanda2707@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pamela-amanda-ferreira-amato-62a0381a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  <a href="https://www.linkedin.com/in/pamela-amanda-ferreira-amato-62a0381a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
  
