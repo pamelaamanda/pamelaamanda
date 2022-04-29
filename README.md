@@ -1,4 +1,4 @@
-# Pamela-Amanda
+# Pamela Amanda
 
 
 Olá, Eu sou a Pamela Amanda.
