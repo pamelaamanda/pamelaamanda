@@ -13,7 +13,7 @@ empregos:
       - usos: Platane/snk@master
         id: snake-gif
         com:
-          github_user_name: rafaballerini
+          github_user_name: pamelaamanda
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - usos: crazy-max/ghaction-github-pages@v2.1.3
