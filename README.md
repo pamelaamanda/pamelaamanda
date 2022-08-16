@@ -1,7 +1,8 @@
 # Pamela Amanda
 
 
-Olá, Eu sou a Pamela Amanda.
+Olá, Eu sou a Pamela Amanda, 
+Sou Analista de Testes QA 💻
 
  <div>
   <a href="https://github.com/pamelaamanda">
