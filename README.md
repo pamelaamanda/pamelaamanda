@@ -2,7 +2,6 @@
 
 
 Olá, Eu sou a Pamela Amanda, 
-
 Sou Analista de Testes QA 💻
 
  <div>
